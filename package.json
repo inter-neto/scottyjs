@@ -24,6 +24,7 @@
     "chalk": "^2.1.0",
     "clipboardy": "^1.1.4",
     "colors": "^1.1.2",
+    "file-type": "^16.0.1",
     "get-folder-size": "^1.0.0",
     "inquirer": "^3.2.2",
     "mime": "^1.4.1",
